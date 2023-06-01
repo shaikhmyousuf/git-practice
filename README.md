@@ -23,3 +23,5 @@ give the passphrase (not mandatory)
 open the .pub key and then copy it in the github window for key generation.
 
 next step is to add the ssh key to the local machine... we will look at this later. 
+
+### Edit 3
